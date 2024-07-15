@@ -1,6 +1,7 @@
 # React Todo App (Deutsch)
 
-Eine einfache Todo-App, erstellt mit React und Vite, die es Benutzern ermöglicht, Todos hinzuzufügen, zu bearbeiten, zu löschen und deren Status zu ändern. Die App speichert die Todos im lokalen Speicher des Browsers.
+Eine einfache Todo-App, erstellt mit React und Vite, die es Benutzern ermöglicht, Todos hinzuzufügen, zu bearbeiten, zu löschen und deren Status zu ändern.  
+Die App speichert die Todos im lokalen Speicher des Browsers.
 
 ## Funktionen
 
@@ -17,3 +18,24 @@ Eine einfache Todo-App, erstellt mit React und Vite, die es Benutzern ermöglich
 - React + Vite
 - Tailwind
 - UUID
+
+## Installation
+
+1. Klonen Sie das Repository:
+    ```sh
+    git clone <repository-url>
+    ```
+2. Navigieren Sie in das Verzeichnis:
+    ```sh
+    cd react-crashcourse-todo-app-deutsch
+    ```
+3. Installieren Sie die Abhängigkeiten:
+    ```sh
+    npm install
+    ```
+
+## Entwicklung
+
+Starten Sie den Entwicklungsserver:
+```sh
+npm run dev
