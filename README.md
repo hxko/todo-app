@@ -23,7 +23,7 @@ Die App speichert die Todos im lokalen Speicher des Browsers.
 
 1. Klonen Sie das Repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/hxko/todo-app.git
     ```
 2. Navigieren Sie in das Verzeichnis:
     ```sh
