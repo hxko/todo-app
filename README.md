@@ -39,6 +39,7 @@ Die App speichert die Todos im lokalen Speicher des Browsers.
 Starten Sie den Entwicklungsserver:
 ```sh
 npm run dev
+```
 
 ## Test
 
@@ -49,3 +50,4 @@ npm run dev
 
 To run the tests type in your terminal
 `npm run test`
+
