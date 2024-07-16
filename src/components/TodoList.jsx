@@ -98,6 +98,7 @@ const TodoList = () => {
             <label htmlFor="hs-trailing-button-add-on" className="sr-only">Label</label>
             <div className="flex shadow-sm">
               <input
+                placeholder="Neues Todo..."
                 value={newTodo}
                 onChange={(e) => setNewTodo(e.target.value)} // Update the newTodo state when the input value changes
                 type="text"
